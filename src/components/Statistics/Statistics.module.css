@@ -4,6 +4,11 @@
   border: 3px solid #67e6c2;
 }
 
+.statistics:hover,
+.statistics:focus {
+  background-color: #f6ff006f;
+}
+
 .title {
   margin-top: 30px;
   margin-bottom: 25px;

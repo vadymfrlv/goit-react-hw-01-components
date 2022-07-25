@@ -5,6 +5,11 @@
   border: 3px solid #67e6c2;
 }
 
+.profile:hover,
+.profile:focus {
+  background-color: #f6ff006f;
+}
+
 .avatar {
   display: block;
   width: 130px;

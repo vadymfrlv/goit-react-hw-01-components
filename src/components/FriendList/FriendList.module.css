@@ -16,7 +16,7 @@
 }
 .item:hover,
 .item:focus {
-  border: 1px solid #f6ff00;
+  border: 1px solid transparent;
   background-color: #f6ff006f;
 }
 
